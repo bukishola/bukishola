@@ -1,5 +1,9 @@
 👨‍💻 Welcome to the hub of **bukishola**, where cryptocurrency node expertise meets coding finesse! 🚀
 
+# My social links:
+
+My Twitter - [Twitter](https://x.com/bukisholaProto) | My Discord - @dellehave0040 | My KeyBase - [KeyBase](https://keybase.io/bukishola)
+
 🛠️ Specializing in **node deployment & maintenance**, I ensure that your blockchain operations are robust and efficient. My mission is to provide top-notch support for a stable and secure network. 🌐
 
 🐍 As a **Python maestro**, I craft elegant scripts that automate and streamline your crypto processes. With Python's versatility, I tackle complex challenges with ease, making sure that your nodes are always at peak performance. 📈
