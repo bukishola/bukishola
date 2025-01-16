@@ -22,7 +22,10 @@ My Twitter - [Twitter](https://x.com/bukisholaProto) | My Discord - @dellehave00
 
 ## Expirience
 
-| ![image](https://github.com/user-attachments/assets/78adb3ca-af00-404e-9b7a-69a53a46ac76) | ![image](https://github.com/user-attachments/assets/36ac9da9-f8f6-40dc-9194-f0ed08915dc8) | ![image](https://github.com/user-attachments/assets/8d4964ac-7d65-4ec3-b3f3-f3055c34522a) | ![image](https://github.com/user-attachments/assets/88a4ffbe-28e2-46d7-9d93-98648e240f57) |
+| ![image](https://github.com/user-attachments/assets/78adb3ca-af00-404e-9b7a-69a53a46ac76) | ![image](https://github.com/user-attachments/assets/36ac9da9-f8f6-40dc-9194-f0ed08915dc8) | ![image](https://github.com/user-attachments/assets/8d4964ac-7d65-4ec3-b3f3-f3055c34522a) | ![image](https://github.com/user-attachments/assets/88a4ffbe-28e2-46d7-9d93-98648e240f57) | 
 | --- | --- | --- | --- |
 | [DHC Node Setup Guide for Bool Network](https://medium.com/@bukishola14/dhc-node-setup-guide-for-bool-network-0c9f8e2fbde9) | Solv (pending) | Fleek (pending) | Taiko (pending) |
 
+| ![babylon](https://github.com/user-attachments/assets/bf4f89c1-cbde-48c9-8227-638fa6a0b242) |   | | |
+| --- | --- | --- | --- |
+| [Step-by-step guide to set up a validator node for Babylon](https://medium.com/@bukishola14/step-by-step-guide-to-set-up-a-validator-node-for-babylon-031d10db3dc4) |  |  |  |
